@@ -64,4 +64,3 @@ steps -> creat a new repo
 
 -> it will show pending wait for sometime and it will show active
 
-Footer
