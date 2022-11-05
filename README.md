@@ -28,7 +28,7 @@ steps -> creat a new repo
 
 -> git add .
 
--> got commit -m ""
+-> got commit -m "you can give comment according to you"
 
 -> git push
 
