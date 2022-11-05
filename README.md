@@ -1,4 +1,4 @@
-# mock_server_deployment_guide
+# mock_server_deployment_guide_using_github
 
 steps -> creat a new repo
 
